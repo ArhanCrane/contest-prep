@@ -8,8 +8,8 @@ Preparing for Yandex Internship
 - Теория:
     - скользящее окно;
 - Практика (LeetCode):
-    - 643. Maximum Average Subarray I;
-    - 239. Sliding Window Maximum;        
+    - 643 Maximum Average Subarray I;
+    - 239 Sliding Window Maximum;        
 
 2 день
 
@@ -17,8 +17,8 @@ Preparing for Yandex Internship
     - битовые операции (XOR, AND, OR);
     - арифметика массивов (сумма, медиана).
 - Практика (LeetCode):
-    - 268. Missing Number;
-    - 136. Single Number.
+    - 268 Missing Number;
+    - 136 Single Number.
 
 3 день
 
