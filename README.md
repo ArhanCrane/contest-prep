@@ -5,18 +5,18 @@ Preparing for Yandex Internship
 
 1 день
 
-- **Теория:**
+- Теория:
     - скользящее окно;
-- **Практика (LeetCode):**
+- Практика (LeetCode):
     - 643. Maximum Average Subarray I;
     - 239. Sliding Window Maximum;        
 
 2 день
 
-- **Теория:**    
+- Теория:
     - битовые операции (XOR, AND, OR);
     - арифметика массивов (сумма, медиана).
-- **Практика (LeetCode):**
+- Практика (LeetCode):
     - 268. Missing Number;
     - 136. Single Number.
 
