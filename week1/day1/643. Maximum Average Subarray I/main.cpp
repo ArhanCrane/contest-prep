@@ -8,12 +8,9 @@ public:
         for (int i{}; i < k; i++) {addition += nums[i];}// k <= n, O (k)
 
         double max_average{addition / k}; // k != 0
-
-        int l{};
+        
         for (int r{k}; r < n; r++) { // O (n)
-            addition += nums[r];
-            addition -= nums[l];
-            l++;
+            addition += nums[r] - nums[r - k];                        
             max_average = std::max(max_average, (addition / k)); // k != 0
         }
 
