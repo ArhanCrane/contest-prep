@@ -1,11 +1,11 @@
 Задачи:
 
-62. Unique Paths
-70. Climbing Stairs
+62 Unique Paths \
+70 Climbing Stairs
 
-435. Non-overlapping Intervals
+435 Non-overlapping Intervals
 
-455. Assign Cookies
-605. Can Place Flowers
+455 Assign Cookies \
+605 Can Place Flowers
 
-55. Jump Game
+55 Jump Game
