@@ -10,9 +10,9 @@
 
 55 Jump Game
 
-Дополнительно, но не обязательно:
-72. Edit Distance (Расстояние Левенштейна) 
-71. Simplify Path (Упростить путь)
+Дополнительно, но не обязательно: \
+72 Edit Distance (Расстояние Левенштейна) \
+71 Simplify Path (Упростить путь)
 
-73. Set Matrix Zeroes (Установить нули в матрице)
-74. Search a 2D Matrix (Поиск в 2D-матрице)
+73 Set Matrix Zeroes (Установить нули в матрице) \
+74 Search a 2D Matrix (Поиск в 2D-матрице)
